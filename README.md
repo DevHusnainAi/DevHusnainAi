@@ -36,8 +36,6 @@ Data infrastructure should not rely on black-box assumptions. The reliable versi
 
 ### Tech stack
 
-<br/>
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py,ts,postgres,redis,kafka,docker,kubernetes,linux,fastapi,nodejs,react,nextjs,arch,neovim,git,aws,gcp,nginx,terraform" />
   <br/>

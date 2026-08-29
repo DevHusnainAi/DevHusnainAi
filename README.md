@@ -1,4 +1,4 @@
-SYED HUSNIAN KHALID
+<img src="./ascii-art-text.png" />
 
 **Systems & Database Infrastructure · Query Execution // Vectorized OLAP**
 

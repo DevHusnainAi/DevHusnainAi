@@ -8,15 +8,6 @@ My focus is **execution engine correctness & data infrastructure**: building det
 
 ---
 
-### What I build today
-
-- Query compilation and semantic AST transforms with **sqlglot** and **SQL**
-- High-throughput asynchronous backend services with **Python**, **FastAPI**, and **Node.js**
-- Distributed streaming and caching architectures backed by **PostgreSQL**, **Redis**, and **Kafka**
-- Containerized infrastructure, CI/CD, and multi-cloud deployment topologies with **Docker** and **Kubernetes**
-
----
-
 ### What I'm focused on now
 
 Bridging logical relational algebra with reliable backend execution: dialect-specific AST lowering, query planner lifecycle correctness, distributed task scheduling, and clean separation between compilation and state mutation.

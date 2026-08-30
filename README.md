@@ -1,6 +1,6 @@
 <img src="./ascii-art-text.png" />
 
-**Systems & Database Infrastructure · Query Execution // Vectorized OLAP**
+### Systems & Database Infrastructure · Query Execution // Vectorized OLAP
 
 I build high-throughput backend data systems, asynchronous pipelines, and query infrastructure: AST parsing, dialect compilation, streaming runtimes, and physical operator pipelines that scale under high concurrency.
 

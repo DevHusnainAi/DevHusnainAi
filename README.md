@@ -16,7 +16,7 @@ Bridging client-side developer experience (Expo / React Native, TypeScript, webh
 
 ### Engineering & Systems Background
 
-- **2,956+ contributions in the past year** across developer tooling, backend infrastructure, and cloud systems
+- **3,000+ contributions in the past year** across developer tooling, backend infrastructure, and cloud systems
 - **CASA Tier 2 & OWASP ASVS v4.0** security specification author (9.7 TAC Security ESOF score)
 - Engineered high-stakes platforms: offline-first intercity transit systems, concurrent examination engines, and automated AI workflow pipelines
 - Specialty: Distributed state machines, SDK & API integration debugging, asynchronous task queues (Celery/Redis), and Linux/cloud platforms (GCP, AWS, Hetzner)

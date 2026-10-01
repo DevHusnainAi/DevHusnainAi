@@ -1,6 +1,6 @@
 <img src="./ascii-art-text.png" />
 
-### Full-Stack & Systems Infrastructure · DevEx / Distributed Systems
+### Software & Platform Engineer · Full-Stack / Infrastructure / DevEx
 
 I build reliable backend systems, developer tooling, and distributed cloud infrastructure: SDKs, asynchronous pipelines, event-driven microservices, and client-server integrations across the web and mobile ecosystem.
 
@@ -25,7 +25,9 @@ Bridging client-side developer experience (Expo / React Native, TypeScript, webh
 
 ### Featured Open Source & Projects
 
-- **[Infra-Guard](https://github.com/DevHusnainAi/infra-guard)** - Automated cloud infrastructure security and deployment baseline policy enforcement engine.
+- **[OpsSwipe](https://github.com/DevHusnainAi/opsswipe)** - A phone pager for indie developers: a code fix can only merge after CI replays the exact production requests that failed. Expo app, Supabase backend, GitHub/Render/Railway/Google Cloud integrations, 114 backend tests. Built solo in under four days ([demo](https://youtu.be/iTIDR-VaMnQ)).
+- **[zerodom](https://github.com/DevHusnainAi/zerodom)** - Parses a live web page into a flat, addressable graph of what's clickable and fillable for AI agents, with every selector checked for uniqueness against the document.
+- **[Infra-Guard](https://github.com/DevHusnainAi/infra-guard)** - Autonomous observability agent on LangGraph and Groq: root-cause analysis on raw log streams, with a remediation report in under 5 seconds.
 - **[OWASP OpenCRE](https://github.com/OWASP/OpenCRE/pull/984)** - Contributed frontend E2E migration to Cypress for the OWASP OpenCRE security framework ([PR #984](https://github.com/OWASP/OpenCRE/pull/984)).
 
 ---
@@ -57,6 +59,7 @@ Developer-facing infrastructure cannot afford black-box assumptions. When an SDK
 
 Available for full-time US-overlap engineering roles in Developer Experience, Support Engineering, and Full-Stack/Systems.
 
+🌐 [husnainai.dev](https://husnainai.dev)  
 📧 [Email Me](mailto:syedhussnaintirmizi@gmail.com)  
-💼 [LinkedIn](https://linkedin.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/syed-hussnain/)  
 🐙 [GitHub](https://github.com/DevHusnainAi)

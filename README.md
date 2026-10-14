@@ -1,5 +1,5 @@
 <img src="./ascii-art-text.png" />
-<a href="https://standout.work"><img src="./devhusnainai-ai-wrapped(1).png" width="400" alt="Standout Wrapped - Top 50 Engineer" /></a>
+<a href="[https://standout.work/wrapped/48cc6eda-6f71-4f59-8844-24552179a0b1](https://standout.work/wrapped/48cc6eda-6f71-4f59-8844-24552179a0b1)"><img src="./devhusnainai-ai-wrapped(1).png" width="400" alt="Standout Wrapped - Top 50 Engineer" /></a>
 
 ### Software & Platform Engineer · Full-Stack / Infrastructure / DevEx
 
